@@ -3,7 +3,7 @@
 Linux is used in most servers - (usually redhat or Ubuntu)
 Working with terminal is faster
 
-##Commands:
+## Commands:
 
 DO NOT RUN:
 rm -rf /*
@@ -26,7 +26,7 @@ rm -rf /*
 Can abbreviate names and press tab - will autofill
 Up arrow will input previous command 
 
-##VIM 
+### VIM 
 -Command mode = esc :
 -Insert mode = i
 -Visual mode = v
