@@ -7,4 +7,8 @@ HTML is a tag based markup language e.g <head> .. </head>
 
 Anything in <head> affects the browser
 Anything in <body> affects the webpage 
+use emmet to start HTML file by typing "!" and pressing tab
+Link CSS to HTML file using <link> tag 
+
+
 
