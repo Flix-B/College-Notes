@@ -38,6 +38,6 @@ git push - pushes data to repository
 git clone - used when no local copy of repository exists
 ~/scr folder (source) to put all GIT stuff in 
 
-##To Do
+## To Do
 
 READ: GIT basics, GIT branching
