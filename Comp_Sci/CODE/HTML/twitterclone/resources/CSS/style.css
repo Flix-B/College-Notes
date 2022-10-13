@@ -1,0 +1,80 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    grid-template-columns: 20vw 80vw;
+    grid-template-rows: 10vh 60vh 20vh;
+    grid-template-areas:
+        "top top"
+        "left main"
+}
+
+.gridtop{
+    grid-area: top;
+    background-color: rgba(255, 255, 255, 0.534);
+}
+
+.topimg{
+    display: flex;
+    flex-direction: row; 
+    align-items: center;   
+    justify-content: center;
+}
+
+.topimg img{
+    max-width: 50px;
+    max-height: 50px;
+    margin-left: 15vw;
+    margin-right: 15vw;
+
+}
+
+h4{
+font-style:bold;
+}
+
+.gridleft{
+    grid-area: left;
+}
+
+.gridmain{
+    grid-area: main;
+}
+
+.postinfo{
+    display: flex;
+    flex-direction: column;
+    margin-top: 200px;
+    background-color: rgb(255, 255, 255);
+}
+
+.postinfo img{
+    max-width: 70px;
+    max-height: 70px;
+
+}
+
+.postnav img{
+    max-width: 25px;
+    max-height: 25px;
+    margin-left: 8vw;
+    margin-right: 10px;
+}
+
+.card1{
+    background-color: rgb(255, 255, 255);
+
+}
+
+.description img{
+    min-width: 300px;
+    max-width: 325px;
+
+}
+
+
+
