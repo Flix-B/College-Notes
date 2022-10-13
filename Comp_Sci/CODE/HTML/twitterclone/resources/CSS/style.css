@@ -48,7 +48,6 @@ font-style:bold;
 .postinfo{
     display: flex;
     flex-direction: column;
-    margin-top: 200px;
     background-color: rgb(255, 255, 255);
 }
 
