@@ -48,10 +48,10 @@ nav{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
     background-color: rgb(156, 227, 255);
-
 }
+
+
 h3{
 font-family: Arial;
 
@@ -60,7 +60,7 @@ font-family: Arial;
     display: flex;
     max-height: auto;
     max-width: auto;
-    min-width: 335px;
+    min-width: auto;
     justify-content: center;
     align-items: center ;
     
