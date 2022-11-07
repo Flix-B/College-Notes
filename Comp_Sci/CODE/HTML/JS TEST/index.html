@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="resources/CSS/style.css" />
+    <title>Javatest</title>
+    <script defer src="resources/JS/main.js"></script>
+  </head>
+
+  <body>
+    <div class="title">
+      <h1>Calculator</h1>
+      <br /><br />
+    </div>
+
+    <div id="where the anser is">
+      <input type="text" id="ansBox" name="ansBox" value="0" /><br /><br />
+    </div>
+
+    <div class="numbers">
+      <button id="one" type="button" onclick="writeBtnValue('1','Number')">
+        1
+      </button>
+      <button id="two" type="button" onclick="writeBtnValue('2','Number')">
+        2
+      </button>
+      <button id="three" type="button" onclick="writeBtnValue('3','Number')">
+        3</button
+      ><br />
+      <button id="four" type="button" onclick="writeBtnValue('4','Number')">
+        4
+      </button>
+      <button id="five" type="button" onclick="writeBtnValue('5','Number')">
+        5
+      </button>
+      <button id="six" type="button" onclick="writeBtnValue('6','Number')">
+        6</button
+      ><br />
+      <button id="seven" type="button" onclick="writeBtnValue('7','Number')">
+        7
+      </button>
+      <button id="eight" type="button" onclick="writeBtnValue('8','Number')">
+        8
+      </button>
+      <button id="nine" type="button" onclick="writeBtnValue('9','Number')">
+        9</button
+      ><br />
+      <button id="zero" type="button" onclick="writeBtnValue('0','Number')">
+        0
+      </button>
+      <br /><br />
+    </div>
+
+    <div class="operators">
+      <button id="plus" type="button" onclick="writeBtnValue('+','Operator')">
+        +
+      </button>
+      <button id="minus" type="button" onclick="writeBtnValue('-','Operator')">
+        -
+      </button>
+      <button id="times" type="button" onclick="writeBtnValue('*','Operator')">
+        *
+      </button>
+      <button id="divide" type="button" onclick="writeBtnValue('/','Operator')">
+        /
+      </button>
+      <br /><br />
+    </div>
+
+    <div class="equalsButton">
+      <button id="equals" type="button" onclick="writeBtnValue('=','Equals')">
+        =
+      </button>
+    </div>
+    <button
+      id="clear"
+      type="button"
+      onclick="document.getElementById('ansBox').value = '0'"
+    >
+      clear
+    </button>
+  </body>
+</html>
