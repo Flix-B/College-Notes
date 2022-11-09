@@ -105,3 +105,51 @@ What is a method?
 A procedure or function that is contained within a class
 
 always use camelcase when naming variables - first letter is always lowercase, new words start with cap
+
+====== NEW LESSON =======
+
+What is an "if" statement?
+a conditional decision
+syntax:
+
+Python:
+if <condition>:
+
+elif <condition>:
+
+else:
+
+Javascript:
+
+if (condition1) {
+// block of code to be executed if condition1 is true
+} else if (condition2) {
+// block of code to be executed if the condition1 is false and condition2 is true
+} else {
+// block of code to be executed if the condition1 is false and condition2 is false
+}
+
+C#:
+if (condition)
+{
+// block of code to be executed if the condition is True
+}
+
+multiple conditional if:
+
+Py:
+
+if <condition> and <condition>:
+
+javascript:
+
+if (condition1) && (condition2) {
+// block of code to be executed if condition1 is true
+}
+
+C#
+
+if((x<0)&&(x<10)
+{
+
+}
