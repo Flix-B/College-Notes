@@ -1,0 +1,15 @@
+C:\Users\felix\Source\Repos\College-Notes\NumberGrid\bin\Debug\net7.0\NumberGrid.exe
+C:\Users\felix\Source\Repos\College-Notes\NumberGrid\bin\Debug\net7.0\NumberGrid.deps.json
+C:\Users\felix\Source\Repos\College-Notes\NumberGrid\bin\Debug\net7.0\NumberGrid.runtimeconfig.json
+C:\Users\felix\Source\Repos\College-Notes\NumberGrid\bin\Debug\net7.0\NumberGrid.dll
+C:\Users\felix\Source\Repos\College-Notes\NumberGrid\bin\Debug\net7.0\NumberGrid.pdb
+C:\Users\felix\Source\Repos\College-Notes\NumberGrid\obj\Debug\net7.0\NumberGrid.csproj.AssemblyReference.cache
+C:\Users\felix\Source\Repos\College-Notes\NumberGrid\obj\Debug\net7.0\NumberGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\Source\Repos\College-Notes\NumberGrid\obj\Debug\net7.0\NumberGrid.AssemblyInfoInputs.cache
+C:\Users\felix\Source\Repos\College-Notes\NumberGrid\obj\Debug\net7.0\NumberGrid.AssemblyInfo.cs
+C:\Users\felix\Source\Repos\College-Notes\NumberGrid\obj\Debug\net7.0\NumberGrid.csproj.CoreCompileInputs.cache
+C:\Users\felix\Source\Repos\College-Notes\NumberGrid\obj\Debug\net7.0\NumberGrid.dll
+C:\Users\felix\Source\Repos\College-Notes\NumberGrid\obj\Debug\net7.0\refint\NumberGrid.dll
+C:\Users\felix\Source\Repos\College-Notes\NumberGrid\obj\Debug\net7.0\NumberGrid.pdb
+C:\Users\felix\Source\Repos\College-Notes\NumberGrid\obj\Debug\net7.0\NumberGrid.genruntimeconfig.cache
+C:\Users\felix\Source\Repos\College-Notes\NumberGrid\obj\Debug\net7.0\ref\NumberGrid.dll

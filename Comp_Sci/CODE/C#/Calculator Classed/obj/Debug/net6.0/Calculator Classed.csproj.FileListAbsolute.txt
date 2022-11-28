@@ -1,0 +1,15 @@
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\Calculator Classed\bin\Debug\net6.0\Calculator Classed.exe
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\Calculator Classed\bin\Debug\net6.0\Calculator Classed.deps.json
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\Calculator Classed\bin\Debug\net6.0\Calculator Classed.runtimeconfig.json
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\Calculator Classed\bin\Debug\net6.0\Calculator Classed.dll
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\Calculator Classed\bin\Debug\net6.0\Calculator Classed.pdb
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\Calculator Classed\obj\Debug\net6.0\Calculator Classed.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\Calculator Classed\obj\Debug\net6.0\Calculator Classed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\Calculator Classed\obj\Debug\net6.0\Calculator Classed.AssemblyInfoInputs.cache
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\Calculator Classed\obj\Debug\net6.0\Calculator Classed.AssemblyInfo.cs
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\Calculator Classed\obj\Debug\net6.0\Calculator Classed.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\Calculator Classed\obj\Debug\net6.0\Calculator Classed.dll
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\Calculator Classed\obj\Debug\net6.0\refint\Calculator Classed.dll
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\Calculator Classed\obj\Debug\net6.0\Calculator Classed.pdb
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\Calculator Classed\obj\Debug\net6.0\Calculator Classed.genruntimeconfig.cache
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\Calculator Classed\obj\Debug\net6.0\ref\Calculator Classed.dll

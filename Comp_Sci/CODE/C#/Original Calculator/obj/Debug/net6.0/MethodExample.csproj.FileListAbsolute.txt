@@ -1,0 +1,15 @@
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\MethodExample\bin\Debug\net6.0\MethodExample.exe
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\MethodExample\bin\Debug\net6.0\MethodExample.deps.json
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\MethodExample\bin\Debug\net6.0\MethodExample.runtimeconfig.json
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\MethodExample\bin\Debug\net6.0\MethodExample.dll
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\MethodExample\bin\Debug\net6.0\MethodExample.pdb
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\MethodExample\obj\Debug\net6.0\MethodExample.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\MethodExample\obj\Debug\net6.0\MethodExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\MethodExample\obj\Debug\net6.0\MethodExample.AssemblyInfoInputs.cache
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\MethodExample\obj\Debug\net6.0\MethodExample.AssemblyInfo.cs
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\MethodExample\obj\Debug\net6.0\MethodExample.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\MethodExample\obj\Debug\net6.0\MethodExample.dll
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\MethodExample\obj\Debug\net6.0\refint\MethodExample.dll
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\MethodExample\obj\Debug\net6.0\MethodExample.pdb
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\MethodExample\obj\Debug\net6.0\MethodExample.genruntimeconfig.cache
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\MethodExample\obj\Debug\net6.0\ref\MethodExample.dll
