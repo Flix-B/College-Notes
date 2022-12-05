@@ -1,0 +1,12 @@
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\PeopleLibrary\PeopleTest\bin\Debug\net6.0\PeopleLibrary.deps.json
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\PeopleLibrary\PeopleTest\bin\Debug\net6.0\PeopleLibrary.dll
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\PeopleLibrary\PeopleTest\bin\Debug\net6.0\PeopleLibrary.pdb
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\PeopleLibrary\PeopleTest\obj\Debug\net6.0\PeopleLibrary.csproj.AssemblyReference.cache
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\PeopleLibrary\PeopleTest\obj\Debug\net6.0\PeopleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\PeopleLibrary\PeopleTest\obj\Debug\net6.0\PeopleLibrary.AssemblyInfoInputs.cache
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\PeopleLibrary\PeopleTest\obj\Debug\net6.0\PeopleLibrary.AssemblyInfo.cs
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\PeopleLibrary\PeopleTest\obj\Debug\net6.0\PeopleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\PeopleLibrary\PeopleTest\obj\Debug\net6.0\PeopleLibrary.dll
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\PeopleLibrary\PeopleTest\obj\Debug\net6.0\refint\PeopleLibrary.dll
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\PeopleLibrary\PeopleTest\obj\Debug\net6.0\PeopleLibrary.pdb
+C:\Users\felix\source\repos\College-Notes\Comp_Sci\CODE\C#\PeopleLibrary\PeopleTest\obj\Debug\net6.0\ref\PeopleLibrary.dll
